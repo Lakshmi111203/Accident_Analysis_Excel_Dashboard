@@ -18,4 +18,4 @@ Road accident analysis dashboard using Excel (2021 vs 2022)
 ![Dashboard](Dashboard.PNG)
 
 ## Created By
-Lakshmi | Aspiring Data Analyst
+ Aspiring Data Analyst
