@@ -15,7 +15,7 @@ Road accident analysis dashboard using Excel (2021 vs 2022)
 - Single carriageways have the most accidents
 
 ## Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.PNG)
 
 ## Created By
 Lakshmi | Aspiring Data Analyst
